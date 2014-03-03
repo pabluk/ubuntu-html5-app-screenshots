@@ -8,6 +8,12 @@ This provides better visual context for your HTML5 app screenshots on your web s
 The device image is licensed under Creative Commons Attribution 2.5.  
 For details and restrictions, see http://developer.android.com/distribute/promote/device-art.html
 
+Example
+-------
+
+![App Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-window.png) ![Device Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-device.png)
+
+
 Usage
 -------
 
