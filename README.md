@@ -11,7 +11,7 @@ For details and restrictions, see http://developer.android.com/distribute/promot
 Example
 -------
 
-![App Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-window.png) ![Device Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-device.png)
+![App Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-win.png) ![Device Screenshot](https://raw.github.com/pabluk/ubuntu-html5-app-screenshots/master/examples/screenshot-dev.png)
 
 
 Usage
