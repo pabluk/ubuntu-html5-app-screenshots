@@ -35,6 +35,9 @@ mkdir -p $OUTPUT_DIR
 # Resize window to adjuste aspect ratio to mobile phone portrait
 /usr/bin/wmctrl -i -r $WINDOW_ID -e 0,-1,-1,480,800
 
+# Wait for resize action
+sleep 1
+
 # Capture app screenshot
 /usr/bin/import -window $WINDOW_ID -resize 768 $APP_SCREENSHOT
 
